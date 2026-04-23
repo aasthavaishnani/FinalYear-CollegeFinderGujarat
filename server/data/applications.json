@@ -1,0 +1,79 @@
+[
+  {
+    "applicationId": 1771240287793,
+    "collegeId": "26",
+    "collegeName": "ff",
+    "studentName": "aastha",
+    "email": "dharmivaishnani02@gmail.com",
+    "phone": "7861850667",
+    "course": "bca",
+    "message": "hehe",
+    "appliedAt": "2026-02-16T11:11:27.793Z"
+  },
+  {
+    "applicationId": 1771241337564,
+    "collegeId": "26",
+    "collegeName": "ff",
+    "studentName": "Dharmi Amrutlal Vaishnani",
+    "email": "dharmivaishnani02@gmail.com",
+    "phone": "7861850667",
+    "course": "bca",
+    "message": "haha",
+    "appliedAt": "2026-02-16T11:28:57.564Z"
+  },
+  {
+    "applicationId": 1771242509881,
+    "collegeId": "27",
+    "collegeName": "gg",
+    "studentName": "hehe",
+    "email": "gee@gmail.com",
+    "phone": "1212121212",
+    "course": "bca",
+    "message": "hihih",
+    "appliedAt": "2026-02-16T11:48:29.882Z"
+  },
+  {
+    "applicationId": 1771294262610,
+    "collegeId": "11",
+    "collegeName": "aa",
+    "studentName": "jjjjjj",
+    "email": "kkk@gmail.com",
+    "phone": "1231231230",
+    "course": "bscIT",
+    "message": "ff",
+    "appliedAt": "2026-02-17T02:11:02.610Z"
+  },
+  {
+    "applicationId": 1774367850224,
+    "collegeId": "32",
+    "collegeName": "hehe",
+    "studentName": "aastha",
+    "email": "1032@gmail.com",
+    "phone": "3213213210",
+    "course": "bca",
+    "message": "hehe",
+    "appliedAt": "2026-03-24T15:57:30.224Z"
+  },
+  {
+    "applicationId": 1774368660444,
+    "collegeId": "32",
+    "collegeName": "hehe",
+    "studentName": "aastha",
+    "email": "sa@gg",
+    "phone": "1231230012",
+    "course": "bca",
+    "message": "ff",
+    "appliedAt": "2026-03-24T16:11:00.445Z"
+  },
+  {
+    "applicationId": 1774369106780,
+    "collegeId": "32",
+    "collegeName": "hehe",
+    "studentName": "aasthaaa",
+    "email": "aa@ss",
+    "phone": "1111111110",
+    "course": "bca",
+    "message": "vdfsgv",
+    "appliedAt": "2026-03-24T16:18:26.781Z"
+  }
+]
